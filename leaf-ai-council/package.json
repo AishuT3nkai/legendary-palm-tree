@@ -1,0 +1,9 @@
+{
+  "name": "leaf-ai-council",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Leaf AI Council multi-agent chat",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
